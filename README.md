@@ -1,4 +1,4 @@
-# AI Agentic Systems & Automation Architecture Portfolio 🤖💼
+# AI Agentic Systems & Automation Architecture Portfolio 
 
 Welcome! I am an AI Solutions & Agentic Systems Architect specializing in bridging complex business workflows with autonomous, production-grade AI technologies. With a professional background in finance, data analytics, and ERP systems, I design and build multi-agent workflows that deliver clear operational efficiency and measurable ROI.
 
