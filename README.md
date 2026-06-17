@@ -14,7 +14,7 @@ Welcome! I am an AI Solutions & Agentic Systems Architect specializing in bridgi
 
 ---
 
-## 🚀 Featured Portfolio Projects
+##  Featured Portfolio Projects
 
 ### 📂 1. Intelligent Document Lifecycle & Process Automation Engine
 An asynchronous, webhook-driven multi-agent microservice engineered to automate backend corporate workflows. It transforms unstructured data payloads (messy PDFs, invoices, and scans) into strictly validated, deterministic data structures ready for ERP ingestion.
